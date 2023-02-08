@@ -27,9 +27,8 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
+current_page=0
 FILE_NAME_0=0;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fsergey%2FРабочий%20стол%2FSergey%2FmyProjects%2FagimaTestTask%2F1%2Ftask.md;0;4
-FILE_NAME_1=10;None;0;EUTF-8;1;1;0;%2Fhome%2Fsergey%2FРабочий%20стол%2FSergey%2FmyProjects%2FagimaTestTask%2F1%2F.gitignore;0;4
 
 [VTE]
 last_dir=/home/sergey/Рабочий стол/Sergey/myProjects/agimaTestTask
